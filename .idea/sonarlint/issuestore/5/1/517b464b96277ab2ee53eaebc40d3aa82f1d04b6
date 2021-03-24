@@ -1,0 +1,11 @@
+
+J
+java:S1481"/Remove this unused "codeRunner" local variable.(²÷Ñøùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õžº–üÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "codeRunner".(²÷Ñøùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¿£”÷
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßýñøÿÿÿÿ
+D
+java:S1172
+")Remove this unused method parameter "l2".(ÙÛþþÿÿÿÿ
